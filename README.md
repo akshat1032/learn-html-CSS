@@ -11,3 +11,5 @@
 ###### UC4 - Sample website layout example
 
 ###### UC5 - Sample website photo gallery layout example
+
+###### UC6 - Sample website card layout example
