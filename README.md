@@ -9,3 +9,5 @@
 ###### UC3 - Sample website created using flexbox
 
 ###### UC4 - Sample website layout example
+
+###### UC5 - Sample website photo gallery layout example
